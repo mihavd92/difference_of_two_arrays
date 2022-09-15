@@ -1,0 +1,10 @@
+body {
+    font-family: 'Montserrat';
+    max-width: 1170px;
+    padding: 10px 15px;
+    margin: 0 auto;
+}
+
+.green {
+    color: green;
+}
